@@ -1,0 +1,496 @@
+@media all and (max-width: 1100px) {
+  #root #wrap #header #container .wrap .popup .popup-container {
+    width: 100%;
+  }
+  #root #wrap #header #container .wrap .popup .popup-container > a {
+    width: 100%;
+  }
+  #root #wrap #header #container .wrap .popup .popup-container > span {
+    right: 10px;
+  }
+  #root #wrap #header #container .wrap .user-menu {
+    width: 100%;
+    padding: 0 10px;
+  }
+  #root #wrap #header #container .wrap .fixed-container {
+    height: 110px;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu {
+    width: 100%;
+    height: 110px;
+    padding: 0 10px;
+    display: block;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .gnb-box {
+    height: 55px;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu #sideSearch {
+    margin-top: 10px;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .icons {
+    height: 46px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+  #root #wrap #footer .container .wrap .top {
+    width: 100%;
+    padding: 0 10px 24px 10px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  #root #wrap #footer .container .wrap .center {
+    width: 100%;
+    padding: 20px 10px 24px 10px;
+  }
+  #root #wrap #footer .container .wrap .center .link {
+    margin: 0 auto;
+  }
+}
+
+@media all and (max-width: 1020px) {
+  #root #wrap #qiuck {
+    display: none;
+  }
+  #root #wrap #footer {
+    height: auto;
+  }
+  #root #wrap #footer .container .wrap .top {
+    height: 644px;
+    display: block;
+  }
+  #root #wrap #footer .container .wrap .top .left {
+    height: 322px;
+    margin: 0 auto 0 0;
+    padding: 0 0 0 20px;
+  }
+  #root #wrap #footer .container .wrap .top .right {
+    height: 322px;
+    margin: 0 0 0 auto;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .txt {
+    text-align: right;
+    padding: 0 20px 0 0;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list-sns {
+    width: auto;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    padding: 45px 10px 0 0;
+  }
+  #root #wrap #footer .container .wrap .center .link {
+    padding: 0;
+    width: auto;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  #root #wrap #footer .container .wrap .center .link a {
+    width: auto;
+    margin: 10px;
+  }
+  #root #wrap #footer .container .wrap .center .link a:nth-child(3) {
+    width: auto;
+  }
+  #root #wrap #footer .container .wrap .center .link a p {
+    display: none;
+  }
+  #root #wrap #footer .container .wrap .bottom {
+    height: auto;
+    padding: 19px 20px 27px 20px;
+  }
+}
+
+@media all and (max-width: 680px) {
+  #root #wrap #main #member .container .wrap .title h2 {
+    font-size: 20px;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .gnb-box {
+    width: auto;
+    z-index: 3;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .gnb-box .mobile-btn {
+    display: block;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .gnb-box .gnb {
+    margin-top: -21px;
+    display: none;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .gnb-box .gnb .menu {
+    padding: 0 0 0 20px;
+  }
+  #root #wrap #main #member .container {
+    width: auto;
+    padding: 0 20px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .left {
+    width: 25%;
+    padding: 0;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right {
+    width: 75%;
+    padding: 0;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .addiction {
+    width: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .addiction label {
+    width: 50%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="text"], #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="password"], #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="email"] {
+    width: 70%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right button {
+    width: 100px;
+    right: 0;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right button.address-btn {
+    width: 70%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .date-box {
+    width: 70%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .button-box {
+    width: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .button-box button {
+    width: 180px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .check-box {
+    width: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .check-box .service {
+    width: 75%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .check-box .service ol {
+    width: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .check-box .service ol li:first-child label {
+    width: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .check-box .service ol li:first-child label span {
+    font-size: 16px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .check-box .service ol li.chk4-box {
+    width: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .check-box .service ol li.chk4-box dl {
+    padding: 0 0 0 20px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .check-box .service ol li.chk4-box dl dd label {
+    width: 50%;
+  }
+  #root #wrap #footer .container .wrap .top {
+    height: auto;
+    padding: 0 10px 10px 10px;
+  }
+  #root #wrap #footer .container .wrap .top .left {
+    width: 380px;
+    height: auto;
+  }
+  #root #wrap #footer .container .wrap .top .left .cc h2 {
+    font-size: 15px;
+    height: 35px;
+    padding: 10px 0 3px 0;
+    width: auto;
+    letter-spacing: -1px;
+  }
+  #root #wrap #footer .container .wrap .top .left .cc .call {
+    height: 40px;
+    padding: 0;
+  }
+  #root #wrap #footer .container .wrap .top .left .cc .call h3 {
+    font-size: 18px;
+    width: 100px;
+    margin: 0;
+    letter-spacing: -1px;
+  }
+  #root #wrap #footer .container .wrap .top .left .cc div {
+    height: 50px;
+    padding: 10px 0 0 0;
+  }
+  #root #wrap #footer .container .wrap .top .left .cc div a {
+    width: 80px;
+    margin: 0 20px 0 0;
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #footer .container .wrap .top .left .cc div dl dt, #root #wrap #footer .container .wrap .top .left .cc div dl dd {
+    font-size: 11px;
+    height: 20px;
+    line-height: 20px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #footer .container .wrap .top .right {
+    width: 380px;
+    height: auto;
+  }
+  #root #wrap #footer .container .wrap .top .right .company {
+    width: auto;
+    height: auto;
+    padding: 10px 0 0 0;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list {
+    width: auto;
+    height: 30px;
+    padding: 0 10px 10px 0;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list li {
+    padding: 0 10px 0 0;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list li a {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .txt p {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .txt p br {
+    display: block;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list-sns {
+    height: 35px;
+    padding: 10px 10px 0 0;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list-sns li {
+    width: auto;
+    height: 25px;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list-sns li a img {
+    width: 25px;
+    height: 25px;
+  }
+  #root #wrap #footer .container .wrap .bottom {
+    padding: 10px;
+  }
+}
+
+@media all and (max-width: 590px) {
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .icons {
+    width: auto;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .icons div {
+    margin: auto 0 auto 10px;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .icons div a {
+    width: 25px;
+    height: 25px;
+  }
+  #root #wrap #header #container .wrap .fixed-container #mainMenu .icons div a img {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+@media all and (max-width: 520px) {
+  #root #wrap #main #member .container .wrap .content #memberForm li .left {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .left label {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .left label span {
+    font-size: 13px;
+    font-weight: 600;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .addiction {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .addiction label {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .addiction label input[type="radio"] {
+    width: 20px;
+    height: 20px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .addiction label span {
+    height: 35px;
+    line-height: 35px;
+    padding: 0 0 0 7px;
+    font-size: 13px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .input-addiction-box {
+    height: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .input-addiction-box input {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="text"], #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="password"], #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="email"] {
+    height: 35px;
+    padding: 0 10px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="text"]::-webkit-input-placeholder, #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="password"]::-webkit-input-placeholder, #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="email"]::-webkit-input-placeholder {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="text"]:-ms-input-placeholder, #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="password"]:-ms-input-placeholder, #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="email"]:-ms-input-placeholder {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="text"]::-ms-input-placeholder, #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="password"]::-ms-input-placeholder, #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="email"]::-ms-input-placeholder {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="text"]::placeholder, #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="password"]::placeholder, #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="email"]::placeholder {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right button {
+    width: 90px;
+    height: 35px;
+    line-height: 35px;
+    font-weight: 500;
+    font-size: 13px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right button.address-btn {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right button.address-btn span {
+    line-height: 35px;
+    font-weight: 500;
+    font-size: 13px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .date-box {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .date-box ul {
+    height: 35px;
+    padding: 0;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address {
+    height: auto;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .left {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .left label {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .right {
+    height: auto;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .right input[type="text"] {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .right input[type="text"]::-webkit-input-placeholder {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .right input[type="text"]:-ms-input-placeholder {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .right input[type="text"]::-ms-input-placeholder {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .right input[type="text"]::placeholder {
+    font-size: 11px;
+    letter-spacing: -1px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.address .right .guide-address-text {
+    height: 18px;
+    font-weight: 500;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .gender {
+    height: 35px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .gender label {
+    height: 35px;
+    width: 33.333%;
+    padding: 7.5px 0;
+    font-size: 13px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .gender label input[type="radio"] {
+    width: 20px;
+    height: 20px;
+    margin-right: 7px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.check-box {
+    height: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.check-box .service {
+    height: 100%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.check-box .service ol li label {
+    height: 25px;
+    font-size: 13px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.check-box .service ol li label input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    background-size: 19px 19px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.check-box .service ol li label input[type="checkbox"]:checked {
+    background-size: 19px 19px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.check-box .service ol li.view-box .view-btn-box {
+    right: 0;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.check-box .service ol li.view-box .view-btn-box a {
+    font-size: 13px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .button-box {
+    height: 65px;
+    padding: 20px 0 0 0;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm .button-box button {
+    width: 150px;
+    height: 45px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 45px;
+  }
+  #root #wrap #footer .container .wrap .top .left {
+    padding: 0;
+  }
+  #root #wrap #footer .container .wrap .top .right {
+    width: 360px;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list {
+    padding: 0 0 10px 0;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list li {
+    padding: 0 0 0 10px;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .txt {
+    padding: 0;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list-sns {
+    padding: 10px 0 0 0;
+  }
+  #root #wrap #footer .container .wrap .top .right .company .list-sns li {
+    padding: 0 0 0 10px;
+  }
+  #root #wrap #footer .container .wrap .bottom {
+    padding: 10px;
+  }
+}
+
+@media all and (max-width: 480px) {
+  #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="text"], #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="password"], #root #wrap #main #member .container .wrap .content #memberForm li .right input[type="email"] {
+    width: 65%;
+    padding: 0 0 0 10px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right button.address-btn {
+    width: 65%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .date-box {
+    width: 95%;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li .right .date-box ul li input {
+    padding: 0 10px;
+  }
+  #root #wrap #main #member .container .wrap .content #memberForm li.check-box .service ol li.chk4-box dl dd label {
+    padding: 0;
+  }
+}
